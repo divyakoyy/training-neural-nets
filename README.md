@@ -10,14 +10,17 @@ Without using tools from MATLAB's neural net toolbox, I created a two-layer neur
 * layer 2 does not use nonlinearity since it uses the ReLU as the identity
 
 ### Example
-![function_approximation](graphs/function_approximation)
+![function_approximation](graphs/function_approximation.jpg)
 
 ## Training a Small Neural Net
 
 A small neural net was trained on data with binary labels. Network structure and training parameters were tuned until achieving 97.12% testing accuracy. 
 
-### Classification Results
-![function_approximation](graphs/function_approximation)
+### Test Data
+![test_data](graphs/test_data.jpg)
+
+### Classification Results (97.12% accuracy)
+![classification_results](graphs/classification_results.jpg)
 
 
 
