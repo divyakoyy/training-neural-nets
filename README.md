@@ -10,7 +10,7 @@ Without using tools from MATLAB's neural net toolbox, I created a two-layer neur
 * layer 2 does not use nonlinearity since it uses the ReLU as the identity
 
 ### Example
-![function_approximation](graphs/function_approximation.jpg){:height="50%" width="50%"}
+![function_approximation]<img src="graphs/function_approximation.jpg" width="50%">
 
 ## Training a Small Neural Net
 
